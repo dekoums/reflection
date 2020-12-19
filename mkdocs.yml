@@ -1,0 +1,7 @@
+site_name: WRIT5662 Reflection
+
+nav:
+  - Home: index.md
+  - Artifacts: artifacts.md
+
+theme: readthedocs
